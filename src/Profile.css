@@ -1,0 +1,8 @@
+.profile::-webkit-scrollbar{
+    display: none;
+    margin: 0;
+}
+
+.profile{
+      max-width: 45rem;
+}
